@@ -1,0 +1,12 @@
+{
+"id": "/ASM-HARDWARE-ELECTRICALS/admin.html",
+"name": "ASM Hardware Admin",
+"short_name": "ASM Admin",
+"description": "ASM Hardware & Electricals product management dashboard",
+"start_url": "/ASM-HARDWARE-ELECTRICALS/admin.html",
+"scope": "/ASM-HARDWARE-ELECTRICALS/",
+"display": "standalone",
+"orientation": "portrait",
+"theme_color": "#d71920",
+"background_color": "#111111"
+}
