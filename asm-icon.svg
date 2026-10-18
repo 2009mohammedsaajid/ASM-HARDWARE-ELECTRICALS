@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#111111"/>
+  <rect x="24" y="24" width="464" height="464" rx="82" fill="none" stroke="#d71920" stroke-width="12"/>
+  <path d="M110 300 L175 125 L240 300 L200 300 L175 225 L150 300 Z" fill="#d71920"/>
+  <path d="M245 300 L245 145 L300 225 L355 145 L355 300 L315 300 L315 220 L300 245 L285 220 L285 300 Z" fill="#ffffff"/>
+  <path d="M375 135 L340 220 L375 220 L350 295 L410 195 L375 195 L400 135 Z" fill="#d71920"/>
+  <path d="M85 330 H427" stroke="#d71920" stroke-width="8" stroke-linecap="round"/>
+  <text x="256" y="375" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="bold" text-anchor="middle" fill="#ffffff">ASM HARDWARE</text>
+  <text x="256" y="416" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#d71920">&amp; ELECTRICALS</text>
+</svg>
