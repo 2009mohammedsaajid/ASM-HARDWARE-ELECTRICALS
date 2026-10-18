@@ -306,17 +306,6 @@ function resetForm() {
 }
 
 $("cancelEdit").addEventListener("click", resetForm);
-<script>
-if ("serviceWorker" in navigator) {
-  window.addEventListener("load", function () {
-    navigator.serviceWorker.register(
-      "/ASM-HARDWARE-ELECTRICALS/service-worker.js",
-      { scope: "/ASM-HARDWARE-ELECTRICALS/" }
-    ).catch(function (error) {
-      console.error("Service worker registration failed:", error);
-    });
-  });
-}
 </script>
 </body>
 </html>
